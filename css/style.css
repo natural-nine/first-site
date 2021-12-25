@@ -166,7 +166,7 @@ img{
 }
 #todo-list li{
     margin-top: 5px;
-    overflow-y: scroll;
+    
 }
 #todo-list li button{
     background: transparent;
