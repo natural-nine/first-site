@@ -1,3 +1,3 @@
 # js app update
 
-hello!!!
+HTML & CSS are so much fun!
